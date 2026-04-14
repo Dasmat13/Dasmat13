@@ -37,7 +37,7 @@ title:      "DevOps Engineer"
 location:   "Punjab, India 🇮🇳"
 education:  "B.Tech CSE @ LPU (2022–Present)"
 email:      "dasmath06@gmail.com"
-phone:      "+91-8637215889"
+phone:      "+91*********"
 
 certifications:
   - "Microsoft Azure Administrator (AZ-104) ✅"
