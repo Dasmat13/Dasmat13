@@ -1,43 +1,90 @@
-## Hi 👋 I am Kay Yan (颜开)
+## Hi 👋 I'm dasmat!
 
-If you are interested in me, please email me:  📫 yankay.com@gmail.com. 
+<p align="center">
+  <a href="https://github.com/Dasmat13">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=450&lines=DevOps+%26+Cloud+Native+Explorer;Full+Stack+Software+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
-⚡ Fun fact: **Cloud Native**, **AI/LLM**  
+---
 
-🔭 I’m currently working on [DaoCloud](https://www.daocloud.io/en/), ex [EMC](https://en.wikipedia.org/wiki/Dell_EMC), ex [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University)
+### 💫 About Me
 
-😄 Maintainer/contributor across selected projects including [Kubespray](https://github.com/kubernetes-sigs/kubespray), [nerdctl](https://github.com/containerd/nerdctl), [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt), [llm-d](https://github.com/llm-d), [Kubean](https://github.com/kubean-io/kubean), [Spiderpool](https://github.com/spidernet-io/spiderpool), [MatrixHub](https://github.com/matrixhub-ai/matrixhub), and [ClawWork](https://github.com/clawwork-ai/ClawWork)
+I am a passionate software developer and cloud infrastructure explorer who loves building highly scalable applications, automating infrastructure, and diving deep into backend ecosystems. 
 
-🌱 Learning and Sharing
+- 🚀 **Core Interests:** DevOps automation, Cloud-Native architecture, Full-stack Web Development.
+- 📫 **How to reach me:** [mey37056@gmail.com](mailto:mey37056@gmail.com)
+- ⚡ **Fun fact:** I love experimenting with automated healing systems and container orchestration.
 
-Recent Highlights:
-- **2026 KubeCon EU**: [Tutorial: KV-Cache Wins You Can Feel: Building AI-Aware LLM Routing on Kubernetes](https://kccnceu2026.sched.com/event/2CW5y/tutorial-kv-cache-wins-you-can-feel-building-ai-aware-llm-routing-on-kubernetes-tyler-michael-smith-red-hat-kay-yan-daocloud-vita-bortnikov-michal-malka-maroon-ayoub-ibm)
-- **2025 KubeCon Japan**: [Sailing Multi-host Inference for LLM on Kubernetes](https://kccncjpn2025.sched.com/event/1x6zY/sailing-multi-host-inference-for-llm-on-kubernetes-kay-yan-daocloud)
-- **2025 KubeCon China**: [AI-Powered Kubernetes Diagnostics With K8sGPT](https://kccncchn2025.sched.com/event/1x5iR/cl-lightning-talk-ai-powered-kubernetes-diagnostics-with-k8sgpt-kay-yan-daocloud)
-- **2025 KubeCon China**: [Building Custom GPU Clusters at Scale][def]
+---
 
-See [more slides](slides/README.md)
+### 🛠️ Tech Stack & Skills
 
-🏆 Honors：
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>☁️ DevOps & Cloud</h4>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Ansible-EE0F0F?style=for-the-badge&logo=ansible&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💻 Languages</h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌐 Backend & DB</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+    </td>
+  </tr>
+</table>
 
-* [2023 "Top Ten Outstanding Software Engineers" - China Electronic Information Industry Federation](https://baijiahao.baidu.com/s?id=1776345995076640356&wfr=spider&for=pc)
-* [2019 Forbes List of China’s 30 elites under 30 years old - Forbes China](https://www.forbeschina.com/lists/1725)
-* 2012 EMC Global Innovation Showcase CTO Award
-* 2007 Top 10 in [ACM/ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest) Asian Regional Competition Nanjing Division
+---
 
-![Metrics](https://raw.githubusercontent.com/yankay/yankay/metrics-renders/github-metrics.svg)
+### 🌟 Featured Projects
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yankay/yankay/output/github-contribution-grid-snake.svg)
+Here are some of the projects I've built and maintained:
 
-🛸 Badges：
+*   🐳 **[docker-gui](https://github.com/Dasmat13/docker-gui)**  
+    *A cross-platform Docker Container Management GUI built with React (frontend), Node.js + Express (backend), and Docker Engine API integration. It provides real-time container monitoring, start/stop/restart actions, logs viewing, and resource usage graphs.*
+*   🌾 **[farmer-marketplace](https://github.com/Dasmat13/farmer-marketplace)**  
+    *AI-powered farmer marketplace with price predictions, smart shopping lists, and comprehensive crop management features.*
+*   ⚙️ **[autohealing-microservices](https://github.com/Dasmat13/autohealing-microservices)**  
+    *Cloud-native architecture designed with self-healing capabilities, showing how microservices can automatically recover from failures.*
+*   🛡️ **[Sintara-Shop-Cloud-Native-E-commerce-App](https://github.com/Dasmat13/Sintara-Shop-Cloud-Native-E-commerce-App)**  
+    *Containerized, highly available e-commerce platform demonstrating modern deployment practices.*
+*   🌐 **[dasmat.me](https://github.com/Dasmat13/dasmat.me)**  
+    *Personal portfolio website built with TypeScript showcasing projects, skills, and professional details.*
 
-<img src="https://images.credly.com/images/f09ecd0d-af5b-4933-9919-5db84511eae4/blob" height="100"/><img src="https://images.credly.com/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob" height="100"/><img src="https://images.credly.com/images/184b21c5-3f6c-49d7-97d7-9087d1676b99/blob" height="100"/><img src="https://images.credly.com/images/43195a73-9ee6-40c7-bd75-eae8515ac836/blob" height="100"/><img src="https://images.credly.com/images/67a3d9a6-e07c-443e-9ac3-e72067b407d8/blob" height="100"/><img src="https://images.credly.com/images/ebedf05f-3b04-4163-a147-9e469bdaddbf/blob" height="100"/><img src="https://images.credly.com/images/7452e181-d092-4b92-934f-dfc16d9061e9/image.png" height="100"/><img src="https://images.credly.com/images/659b3a27-9b9d-4a19-8548-b686d3563c2b/image.png" height="100"/><img src="https://images.credly.com/images/8ce9ab71-6745-4b22-98f2-99f3b12a3aa6/image.png" height="100"/><img src="https://images.credly.com/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" height="100"/><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="100"/><img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" height="100"/><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height="100"/>
+---
 
-📷 Photo:
+### 🤝 Open Source Contributions & Explorations
 
-<img src="./pictures/self.jpg" alt="self" height="140"><img src="./pictures/together.jpg" alt="together" height="140"><img src="./pictures/with-linus.jpg" alt="with-linus" height="140">
+I actively follow and contribute to major open-source projects. Some of the notable ecosystems I work with and explore:
 
+- ☸️ **[Karpenter](https://github.com/Dasmat13/karpenter)** & **[Prometheus Operator](https://github.com/Dasmat13/prometheus-operator)**: Cloud native auto-scaling and monitoring.
+- 🔬 **[SigNoz](https://github.com/Dasmat13/signoz)**: Open-source application performance monitoring (APM) and observability.
+- 🏬 **[Medusa](https://github.com/Dasmat13/medusa)** & **[Mongoose](https://github.com/Dasmat13/mongoose)**: Headless commerce and database modeling.
+- 🎨 **[Excalidraw](https://github.com/Dasmat13/excalidraw)**: Collaborating on the whiteboard UI/UX components.
 
+---
 
+### 📊 GitHub Activity & Analytics
 
-[def]: https://kccncchn2025.sched.com/event/1x5hZ/building-custom-gpu-clusters-at-scale-using-kubespray-to-create-high-performance-ai-infrastructure-kay-yan-daocloud-rong-zhang-vivo
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dasmat13/yankay/metrics-renders/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dasmat13/yankay/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>

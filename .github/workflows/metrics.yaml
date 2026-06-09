@@ -44,10 +44,10 @@ jobs:
           output_action: commit
           output_condition: data-changed
           committer_branch: metrics-renders
-          user: yankay
+          user: Dasmat13
           template: classic
           base: header, activity, community
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Kolkata
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_notable: yes
