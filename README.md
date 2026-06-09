@@ -82,9 +82,9 @@ I actively follow and contribute to major open-source projects. Some of the nota
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/yankay/metrics-renders/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/metrics-renders/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/yankay/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
