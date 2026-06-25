@@ -38,21 +38,6 @@ I'm a software developer and cloud infrastructure explorer who loves building hi
 
 ---
 
-### 🌟 Featured Projects
-
-*   🐳 **[docker-gui](https://github.com/Dasmat13/docker-gui)**  
-    *A cross-platform Docker Container Management GUI — React frontend, Node.js + Express backend, Docker Engine API. Real-time container monitoring, start/stop/restart, log streaming, and resource usage graphs.*
-*   🌾 **[farmer-marketplace](https://github.com/Dasmat13/farmer-marketplace)**  
-    *AI-powered farmer marketplace with ML-based price predictions, smart shopping lists, and comprehensive crop management features.*
-*   ⚙️ **[autohealing-microservices](https://github.com/Dasmat13/autohealing-microservices)**  
-    *Cloud-native self-healing architecture demonstrating how microservices automatically recover from failures using Kubernetes health probes and controllers.*
-*   🛡️ **[Sintara-Shop-Cloud-Native-E-commerce-App](https://github.com/Dasmat13/Sintara-Shop-Cloud-Native-E-commerce-App)**  
-    *Containerized, highly available e-commerce platform with modern Kubernetes deployment patterns.*
-*   🌐 **[dasmat.me](https://github.com/Dasmat13/dasmat.me)**  
-    *Personal portfolio built with TypeScript showcasing projects, skills, and professional highlights.*
-
----
-
 ### 🤝 Open Source Contributions
 
 I actively contribute to major open-source projects across the cloud-native and web ecosystems:
