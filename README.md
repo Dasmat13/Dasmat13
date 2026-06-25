@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dasmat13&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ### 💫 About Me
