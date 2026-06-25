@@ -25,36 +25,16 @@ I'm a software developer and cloud infrastructure explorer who loves building hi
 
 ### 🛠️ Tech Stack & Skills
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>☁️ DevOps & Cloud</h4>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Ansible-EE0F0F?style=for-the-badge&logo=ansible&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br/>
-    </td>
-    <td width="33%" valign="top">
-      <h4>💻 Languages</h4>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br/>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🌐 Backend & DB</h4>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| | |
+|:--|:--|
+| ☁️ **DevOps & Cloud** | [![DevOps](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,aws,azure&theme=dark)](https://skillicons.dev) |
+| 💻 **Languages** | [![Languages](https://skillicons.dev/icons?i=ts,js,go,py,cpp,bash&theme=dark)](https://skillicons.dev) |
+| 🌐 **Backend & DB** | [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark)](https://skillicons.dev) |
+| 🔧 **Tools** | [![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,prometheus,grafana&theme=dark)](https://skillicons.dev) |
+
+</div>
 
 ---
 
