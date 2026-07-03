@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dasmat13&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/Dasmat13/Dasmat13/stargazers">
+    <img src="https://img.shields.io/github/stars/Dasmat13/Dasmat13?style=flat-square&label=Likes&color=2563EB&logo=github" alt="Likes" />
+  </a>
 </p>
 
 ---
