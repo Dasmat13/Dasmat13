@@ -44,11 +44,13 @@ I actively contribute to major open-source projects across the cloud-native and 
 
 | Project | Contribution |
 |---|---|
-| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | [#913](https://github.com/kubernetes-sigs/lws/pull/913) Reject out-of-range `spec.replicas` in LeaderWorkerSet webhook · [#912](https://github.com/kubernetes-sigs/lws/pull/912) Reject `maxSurge=0+maxUnavailable=0` in DisaggregatedSet · [#914](https://github.com/kubernetes-sigs/lws/pull/914) Fix Helm cert-manager CA injection |
-| ⎈ **[helm/helm](https://github.com/helm/helm)** | [#32278](https://github.com/helm/helm/pull/32278) Enforce Kubernetes naming rules on chart names in `helm lint` |
+| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | [PR #913](https://github.com/kubernetes-sigs/lws/pull/913) Webhook validation: reject `spec.replicas` outside `[0, 1000000]` range in LeaderWorkerSet (prevents controller OOM/crash) |
+| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | [PR #912](https://github.com/kubernetes-sigs/lws/pull/912) Webhook validation: reject `maxSurge=0 + maxUnavailable=0` in DisaggregatedSet (stops infinite reconcile loop) |
+| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | [PR #914](https://github.com/kubernetes-sigs/lws/pull/914) Helm: fix cert-manager CA injection (missing `inject-ca-from` annotation causing x509 errors) + migrate `commonLabels` deprecation |
+| ⎈ **[helm/helm](https://github.com/helm/helm)** | [PR #32278](https://github.com/helm/helm/pull/32278) `helm lint`: enforce Kubernetes metadata naming rules on chart names using `chartutil.ValidateMetadataName` |
 | ☸️ **[prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)** | Enabled `kube-api-linter` MaxLength validation on CRDs |
-| 🟢 **[nodejs/node](https://github.com/nodejs/node)** | Fixed `dot` reporter not showing failure details on coverage failures |
-| ⚡ **[expressjs/express](https://github.com/expressjs/express)** | Fixed `res.redirect(undefined)` setting an invalid `Location` header |
+| 🟢 **[nodejs/node](https://github.com/nodejs/node)** | Fixed `dot` reporter to display failure details on coverage failures |
+| ⚡ **[expressjs/express](https://github.com/expressjs/express)** | Fixed `res.redirect(undefined)` setting invalid `Location` header |
 | 🎭 **[backstage/backstage](https://github.com/backstage/backstage)** | Fixed TechDocs DOMPurify hook isolation bug causing opacity rendering issues |
 
 ---
