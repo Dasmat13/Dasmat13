@@ -44,13 +44,14 @@ I actively contribute to major open-source projects across the cloud-native and 
 
 | Project | Contribution |
 |---|---|
-| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | Documentation improvements for `DisaggregatedSet` |
+| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | [PR #913](https://github.com/kubernetes-sigs/lws/pull/913) Webhook validation: reject `spec.replicas` outside `[0, 1000000]` range in `LeaderWorkerSet` (prevents controller OOM/crash) |
+| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | [PR #912](https://github.com/kubernetes-sigs/lws/pull/912) Webhook validation: reject `maxSurge=0 + maxUnavailable=0` in `DisaggregatedSet` (stops infinite reconcile loop) |
+| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | [PR #914](https://github.com/kubernetes-sigs/lws/pull/914) Helm: fix cert-manager CA injection (missing `inject-ca-from` annotation causing x509 errors) + migrate `commonLabels` deprecation |
+| ⎈ **[helm/helm](https://github.com/helm/helm)** | [PR #32278](https://github.com/helm/helm/pull/32278) `helm lint`: enforce Kubernetes metadata naming rules on chart names using `chartutil.ValidateMetadataName` |
 | ☸️ **[prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)** | Enabled `kube-api-linter` MaxLength validation on CRDs |
 | 🟢 **[nodejs/node](https://github.com/nodejs/node)** | Fixed `dot` reporter to display failure details on coverage failures |
 | ⚡ **[expressjs/express](https://github.com/expressjs/express)** | Fixed `res.redirect(undefined)` setting invalid `Location` header |
 | 🎭 **[backstage/backstage](https://github.com/backstage/backstage)** | Fixed TechDocs DOMPurify hook isolation bug causing opacity rendering issues |
-| 🔬 **[SigNoz](https://github.com/Dasmat13/signoz)** | Exploring open-source APM and observability tooling |
-| 🎨 **[Excalidraw](https://github.com/Dasmat13/excalidraw)** | UI/UX whiteboard component contributions |
 
 ---
 
