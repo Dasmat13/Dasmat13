@@ -36,21 +36,6 @@ I'm a software developer and cloud infrastructure explorer who loves building hi
 
 ---
 
-### 🤝 Open Source Contributions
-
-I actively contribute to major open-source projects across the cloud-native and web ecosystems:
-
-| Project | Contribution |
-|---|---|
-| ☸️ **[kubernetes-sigs/lws](https://github.com/kubernetes-sigs/lws)** | [#913](https://github.com/kubernetes-sigs/lws/pull/913) Reject out-of-range LWS replicas · [#912](https://github.com/kubernetes-sigs/lws/pull/912) Reject `maxSurge`/`maxUnavailable` = 0 · [#914](https://github.com/kubernetes-sigs/lws/pull/914) Fix Helm cert-manager CA injection |
-| ⎈ **[helm/helm](https://github.com/helm/helm)** | [#32278](https://github.com/helm/helm/pull/32278) Enforce Kubernetes naming rules on chart names in `helm lint` |
-| ☸️ **[prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)** | Enable `kube-api-linter` MaxLength validation on CRDs |
-| 🟢 **[nodejs/node](https://github.com/nodejs/node)** | Fix `dot` reporter coverage failure details |
-| ⚡ **[expressjs/express](https://github.com/expressjs/express)** | Fix `res.redirect(undefined)` invalid `Location` header |
-| 🎭 **[backstage/backstage](https://github.com/backstage/backstage)** | Fix TechDocs DOMPurify hook isolation bug |
-
----
-
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
