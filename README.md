@@ -6,11 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Dasmat13/Dasmat13/stargazers">
-    <img src="https://img.shields.io/github/stars/Dasmat13/Dasmat13?style=flat-square&label=Likes&color=2563EB&logo=github" alt="Likes" />
-  </a>
-</p>
+
 
 ---
 
