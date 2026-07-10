@@ -45,3 +45,8 @@ I'm a software developer and cloud infrastructure explorer who loves building hi
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/gitworld.svg"
+    alt="![GitWorld]" width="100%" />
+</p>
