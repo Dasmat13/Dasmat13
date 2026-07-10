@@ -48,5 +48,5 @@ I'm a software developer and cloud infrastructure explorer who loves building hi
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/gitworld.svg"
-    alt="![GitWorld]" width="100%" />
+    alt="GitWorld-my github world" width="100%" />
 </p>
