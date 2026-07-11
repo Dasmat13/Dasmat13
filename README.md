@@ -42,30 +42,11 @@ I'm a software developer and cloud infrastructure explorer who loves building hi
   <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/metrics-renders/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/gitworld.svg"
     alt="GitWorld-my github world" width="100%" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/aquarium.svg" alt="GitAquarium" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/circuit.svg" alt="GitCircuit" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/alchemy.svg" alt="GitAlchemy" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/pet.svg" alt="GitPet" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/metro.svg" alt="GitMetro" width="100%" />
-</p>
-
-
 
 
