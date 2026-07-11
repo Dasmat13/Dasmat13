@@ -56,5 +56,9 @@ I'm a software developer and cloud infrastructure explorer who loves building hi
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/circuit.svg" alt="GitCircuit" width="100%" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/alchemy.svg" alt="GitAlchemy" width="100%" />
+</p>
+
 
 
