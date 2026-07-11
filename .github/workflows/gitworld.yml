@@ -1,20 +1,25 @@
 name: GitWorld — Update Profile
+
 on:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
+
 jobs:
   gitworld:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: Dasmat13/git-world-action@main
         with:
           github_user_name: ${{ github.actor }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           svg_out_path: dist/gitworld.svg
+
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
