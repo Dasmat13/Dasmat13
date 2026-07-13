@@ -1,9 +1,3 @@
-## 📊 Open Source Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/profile-card.svg"
-    alt="Dasmat13 Profile Card" width="100%" />
-</p>
 
 ---
 
@@ -19,6 +13,14 @@
     alt="GitHub Metrics" width="100%" />
 </p>
 
+<p align="center">
+  <sub>
+    Every merged contribution, listed and linked:
+    <a href="https://dasmat13.github.io/oss-portfolio/" target="_blank" rel="noopener noreferrer">
+      Open Source Portfolio
+    </a>
+  </sub>
+</p>
 <p align="center">
   <sub>
     Profile powered by
