@@ -11,7 +11,7 @@ name: GitWorld — Update Profile
 
 on:
   schedule:
-    - cron: '0 18 * * *'   # Runs daily at 18:00 UTC
+    - cron: '0 */02 * * *'   # Runs daily at 18:00 UTC
   workflow_dispatch:         # Allow manual trigger
 
 jobs:
