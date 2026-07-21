@@ -558,9 +558,21 @@
       <circle class="glow-node" cx="866.0384615384615" cy="156.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <polygon class="sea-fan" points="891.3461538461538,223 876.3461538461538,160 883.3461538461538,148 891.3461538461538,155 899.3461538461538,148 906.3461538461538,160" fill="#9b59b6" opacity="0.85" 
-          style="animation-delay:10.20s"/>
+        <g class="coral-plant" style="animation-delay:7.65s">
+          <!-- Main trunk -->
+          <line x1="891.3461538461538" y1="223" x2="891.3461538461538" y2="192.6" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 891.3461538461538,200.2 Q 879.3461538461538,185 881.3461538461538,162.2" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 891.3461538461538,192.6 Q 903.3461538461538,177.4 899.3461538461538,147" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="884.3461538461538" y1="177.4" x2="877.3461538461538" y2="169.8" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="897.3461538461538" y1="169.8" x2="903.3461538461538" y2="158.4" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+        </g>
       
+      <circle class="glow-node" cx="891.3461538461538" cy="162.2" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="883.3461538461538" cy="177.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
 
   <!-- Swimming fishes -->
   
@@ -605,6 +617,21 @@
       <circle cx="9" cy="-2" r="0.7" fill="#000000"/>
     </g>
   
+  
+    <g class="fish fish-swim" style="animation-duration:20s; animation-delay:4.5s; transform: scale(0.6)">
+      <!-- Tail fin -->
+      <path class="fish-tail" d="M -12,0 L -22,-8 L -18,0 L -22,8 Z" fill="#00d2ff"/>
+      <!-- Pectoral Fin -->
+      <path d="M -2,4 L -6,10 L -4,3 Z" fill="#00d2ff"/>
+      <!-- Body -->
+      <path d="M -12,0 C -6,-8 6,-8 14,0 C 6,8 -6,8 -12,0 Z" fill="#ffea00"/>
+      <!-- Stripes (for clownfish style) -->
+      
+      <!-- Eye -->
+      <circle cx="8" cy="-2" r="1.5" fill="#ffffff"/>
+      <circle cx="9" cy="-2" r="0.7" fill="#000000"/>
+    </g>
+  
 
   <!-- Seabed / Sand -->
   <path d="M 0,225 Q 225,217 450,225 T 900,225 L 900,260 L 0,260 Z" fill="url(#sand)"/>
@@ -614,13 +641,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 548 commits
+      🪸 Dasmat13's Aquarium · 559 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 8 stars · 17d streak
+      🐠 10 stars · 18d streak
     </text>
   </g>
 
