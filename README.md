@@ -9,6 +9,12 @@
 ---
 
 <p align="center">
+  <a href="https://devstats.cluster.fun/?user=dasmat13">
+    <img src="https://img.shields.io/badge/CNCF%20DevStats-dasmat13-008BB8?logo=cncf&style=for-the-badge" alt="CNCF DevStats" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Dasmat13/Dasmat13/metrics-renders/github-metrics.svg"
     alt="GitHub Metrics" width="100%" />
 </p>
