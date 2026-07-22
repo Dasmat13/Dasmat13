@@ -37,7 +37,7 @@ jobs:
       - uses: lowlighter/metrics@v3.34
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
           # Options
           filename: github-metrics.svg
