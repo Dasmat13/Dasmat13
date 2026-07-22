@@ -12,9 +12,6 @@
   <a href="https://devstats.cluster.fun/?user=dasmat13">
     <img src="https://img.shields.io/badge/CNCF%20DevStats-221%20Contributions-008BB8?logo=cncf&style=for-the-badge" alt="CNCF DevStats" />
   </a>
-  <a href="https://devstats.cluster.fun/?user=dasmat13">
-    <img src="https://img.shields.io/badge/CNCF%20PRs-17%20Merged-2188FF?logo=github&style=for-the-badge" alt="CNCF PRs" />
-  </a>
 </p>
 
 <p align="center">
