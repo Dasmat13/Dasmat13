@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://devstats.cluster.fun/?user=dasmat13">
-    <img src="https://img.shields.io/badge/CNCF%20DevStats-319%20Contributions-008BB8?logo=cncf&style=for-the-badge" alt="CNCF DevStats" />
+    <img src="https://img.shields.io/badge/CNCF%20DevStats-439%20Contributions-008BB8?logo=cncf&style=for-the-badge" alt="CNCF DevStats" />
   </a>
 </p>
 
