@@ -541,23 +541,19 @@
   
         <g class="coral-plant" style="animation-delay:7.50s">
           <!-- Main trunk -->
-          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="191.8" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="192.6" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 874.0384615384615,199.6 Q 862.0384615384615,184 864.0384615384615,160.6" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 874.0384615384615,200.2 Q 862.0384615384615,185 864.0384615384615,162.2" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 874.0384615384615,191.8 Q 886.0384615384615,176.2 882.0384615384615,145" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 874.0384615384615,192.6 Q 886.0384615384615,177.4 882.0384615384615,147" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="867.0384615384615" y1="176.2" x2="860.0384615384615" y2="168.4" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
-          <line x1="880.0384615384615" y1="168.4" x2="886.0384615384615" y2="156.7" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="867.0384615384615" y1="177.4" x2="860.0384615384615" y2="169.8" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="880.0384615384615" y1="169.8" x2="886.0384615384615" y2="158.4" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
         </g>
       
   
-        <g class="coral-plant" style="animation-delay:4.08s">
-          <circle cx="891.3461538461538" cy="217" r="7" fill="#e67e22"/>
-          <circle cx="887.3461538461538" cy="209" r="5" fill="#e67e22"/>
-          <circle cx="896.3461538461538" cy="205" r="4" fill="#e67e22"/>
-          <circle cx="891.3461538461538" cy="198" r="3" fill="#e67e22"/>
-        </g>
+        <polygon class="sea-fan" points="891.3461538461538,223 876.3461538461538,164 883.3461538461538,152 891.3461538461538,159 899.3461538461538,152 906.3461538461538,164" fill="#e74c3c" opacity="0.85" 
+          style="animation-delay:10.20s"/>
       
 
   <!-- Swimming fishes -->
@@ -637,13 +633,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 870 commits
+      🪸 Dasmat13's Aquarium · 872 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 17 stars · 1d streak
+      🐠 17 stars · 2d streak
     </text>
   </g>
 
